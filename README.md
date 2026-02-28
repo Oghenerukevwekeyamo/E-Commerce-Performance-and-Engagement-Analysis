@@ -66,4 +66,3 @@ This project provides actionable insights for the e-commerce platform, including
   * Targeting high-value segments like returning and mobile users
   * Identifying engagement gaps in specific age groups and product categories
   * Making data-driven decisions to enhance customer retention and satisfaction
->>>>>>> afe3e5f325707064dfde2b456d38593f0cb637ff
